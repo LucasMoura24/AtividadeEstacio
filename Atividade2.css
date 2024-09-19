@@ -1,0 +1,53 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Georgia ;
+    font-size: 500%;
+    padding: 50px;
+    margin: 165px;
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-family: Georgia ;
+    font-size: 250%;
+    padding: 50px;
+    margin: 165px;
+    text-align: center;
+}
+figure{
+    text-align: center;
+    padding: 50px;
+    margin: 165px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-family: Georgia ;
+    font-size: 250%;
+    text-align: center;
+}
+a{
+    color: black;
+    font-size: 130%;
+    padding: 50px;
+    margin: 400px;
+   
+}
+a:hover{
+    color: red;
+}
+h3{
+    color: rgb(255, 255, 255);
+    font-family: Georgia ;
+    font-size: 250%;
+    text-align: center; 
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-family: Georgia ;
+    font-size: 250%;
+    text-align: center;
+}
